@@ -1,16 +1,9 @@
 # flutter_mvvm_api_news
 
-A new Flutter project.
+# Application that use MVVM with Provider
 
-## Getting Started
+# Api to Fetch News with Refreshing Data and Pagination
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1677464217](https://user-images.githubusercontent.com/102364205/221463615-ca5ddc67-c405-4159-8e99-699a973da2f6.png)
+![Screenshot_1677464550](https://user-images.githubusercontent.com/102364205/221463499-ef39d438-88a5-4b4a-b9b2-ad70725436b3.png)
+![Screenshot_1677464543](https://user-images.githubusercontent.com/102364205/221463514-3c7a718c-6e7c-492f-a641-81387ce52223.png)
